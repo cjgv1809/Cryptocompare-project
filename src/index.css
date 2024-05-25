@@ -104,7 +104,6 @@ body {
 }
 
 .result {
-  margin-top: 2rem;
   font-size: 1.6rem;
   color: var(--light-clr);
 }
